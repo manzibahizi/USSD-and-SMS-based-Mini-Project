@@ -2,6 +2,8 @@
 
 A USSD-based healthcare appointment management system that allows patients to book appointments with doctors and doctors to manage their appointments. Built specifically for Africa's Talking USSD and SMS services.
 
+It is developed by ## MANZI BAHIZI Bertin and DUSINGIZIMANA Innocent.
+
 ## Features
 
 - Patient Registration and Authentication
